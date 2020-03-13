@@ -1,0 +1,10 @@
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\bin\Debug\PW app with saved pw.exe.config
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\bin\Debug\PW app with saved pw.exe
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\bin\Debug\PW app with saved pw.pdb
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\obj\Debug\PW app with saved pw.csprojAssemblyReference.cache
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\obj\Debug\PW_app_with_saved_pw.Form1.resources
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\obj\Debug\PW_app_with_saved_pw.Properties.Resources.resources
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\obj\Debug\PW app with saved pw.csproj.GenerateResource.cache
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\obj\Debug\PW app with saved pw.exe
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\obj\Debug\PW app with saved pw.pdb
+C:\Users\Balla Botond\source\repos\PW app with saved pw\PW app with saved pw\obj\Debug\PW_app_with_saved_pw.Main.resources

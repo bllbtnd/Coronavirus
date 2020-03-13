@@ -1,0 +1,10 @@
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\obj\Debug\Coronavirus.csprojAssemblyReference.cache
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\obj\Debug\Coronavirus.Main.resources
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\obj\Debug\Coronavirus.Form1.resources
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\obj\Debug\Coronavirus.Properties.Resources.resources
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\obj\Debug\Coronavirus.csproj.GenerateResource.cache
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\bin\Debug\Coronavirus.exe.config
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\bin\Debug\Coronavirus.exe
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\bin\Debug\Coronavirus.pdb
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\obj\Debug\Coronavirus.exe
+C:\Users\Balla Botond\Desktop\Coronavirus\PW app with saved pw\obj\Debug\Coronavirus.pdb
